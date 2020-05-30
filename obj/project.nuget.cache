@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uHfw8WWkiBAQpk/xplp7f2wfNscVoNxwuitYM5jLFIY1Rgul31KRwgIuYxBd47W8XB4xuj5BW7X7+9miLRd/Kg==",
+  "success": true,
+  "projectFilePath": "/home/rawriclark/Projects/SageModeBank/SageModeBank.csproj",
+  "expectedPackageFiles": [
+    "/home/rawriclark/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
